@@ -1,5 +1,9 @@
-# docker-graphviz-dataflow
+# docker-uml-dfd
 
-A Docker container featuring [graphviz](http://graphviz.org/) and [dataflow](https://github.com/sonyxperiadev/dataflow).
+A Docker container featuring multiple useful binaries to generate DFD and UML diagrams, including:
 
-This container also features make in order to automate the graphs generation using a Makefile.
+* [Graphviz](http://graphviz.org/)
+* [Dataflow](https://github.com/sonyxperiadev/dataflow)
+* [PlantUML](http://plantuml.com)
+
+This container also features `make` in order to automate the graphs generation using a Makefile.

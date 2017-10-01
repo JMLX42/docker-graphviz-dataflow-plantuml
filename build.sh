@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t promethe42/graphviz-dataflow:${1} .
+docker build -t promethe42/uml-dfd:${1} .
